@@ -1,4 +1,4 @@
-import iceCreamImg from '../../assets/images/previewProjects/IceCream.png';
+import iceCreamImg from '../../assets/images/previewProjects/iceCream.png';
 import filmotekaImg from '../../assets/images/previewProjects/filmoteka.png';
 import webStudioImg from '../../assets/images/previewProjects/webStudio.png';
 
@@ -40,12 +40,12 @@ export const commandProjects = [
   },
   {
     id: 'id-1',
-    label: 'IceCream',
+    label: 'iceCream',
     link: 'https://prykhodko-pasha.github.io/code_club-project/',
     repo: 'https://github.com/LiliiaShemet/code_club-project',
     preview: iceCreamImg,
     info:
-      'Responsive web page layout for IceCream',
+      'Responsive web page layout for iceCream',
     tech: [
       { id: 'id-1', name: 'HTML5' },
       { id: 'id-2', name: 'SCSS' },

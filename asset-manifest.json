@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.ccf0cc4c.chunk.js": "/portfolio/static/js/0.ccf0cc4c.chunk.js",
+    "static/js/0.ccf0cc4c.chunk.js.map": "/portfolio/static/js/0.ccf0cc4c.chunk.js.map",
+    "home-view.js": "/portfolio/static/js/home-view.cd8f9ff6.chunk.js",
+    "home-view.js.map": "/portfolio/static/js/home-view.cd8f9ff6.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.0b2fcb4a.chunk.css",
+    "main.js": "/portfolio/static/js/main.af1be741.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.af1be741.chunk.js.map",
+    "not-found-view.js": "/portfolio/static/js/not-found-view.51f34299.chunk.js",
+    "not-found-view.js.map": "/portfolio/static/js/not-found-view.51f34299.chunk.js.map",
+    "projects-view.js": "/portfolio/static/js/projects-view.a6b8ab1f.chunk.js",
+    "projects-view.js.map": "/portfolio/static/js/projects-view.a6b8ab1f.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.46f2b3a4.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.46f2b3a4.js.map",
+    "static/css/6.373bc5f8.chunk.css": "/portfolio/static/css/6.373bc5f8.chunk.css",
+    "static/js/6.eed61f6b.chunk.js": "/portfolio/static/js/6.eed61f6b.chunk.js",
+    "static/js/6.eed61f6b.chunk.js.map": "/portfolio/static/js/6.eed61f6b.chunk.js.map",
+    "static/js/7.ccf510de.chunk.js": "/portfolio/static/js/7.ccf510de.chunk.js",
+    "static/js/7.ccf510de.chunk.js.map": "/portfolio/static/js/7.ccf510de.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/6.373bc5f8.chunk.css.map": "/portfolio/static/css/6.373bc5f8.chunk.css.map",
+    "static/css/main.0b2fcb4a.chunk.css.map": "/portfolio/static/css/main.0b2fcb4a.chunk.css.map",
+    "static/js/6.eed61f6b.chunk.js.LICENSE.txt": "/portfolio/static/js/6.eed61f6b.chunk.js.LICENSE.txt",
+    "static/media/error.392246c6.jpg": "/portfolio/static/media/error.392246c6.jpg",
+    "static/media/filmoteka.c4c6affd.png": "/portfolio/static/media/filmoteka.c4c6affd.png",
+    "static/media/iceCream.5e525ff0.png": "/portfolio/static/media/iceCream.5e525ff0.png",
+    "static/media/logo.4fc6fba6.png": "/portfolio/static/media/logo.4fc6fba6.png",
+    "static/media/webStudio.5b70c1a8.png": "/portfolio/static/media/webStudio.5b70c1a8.png",
+    "static/media/woman.8a3ec585.png": "/portfolio/static/media/woman.8a3ec585.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46f2b3a4.js",
+    "static/css/6.373bc5f8.chunk.css",
+    "static/js/6.eed61f6b.chunk.js",
+    "static/css/main.0b2fcb4a.chunk.css",
+    "static/js/main.af1be741.chunk.js"
+  ]
+}
